@@ -1,0 +1,15 @@
+{
+  "name": "retyped-cucumber-tsd-ambient",
+  "description": "TypeScript typings for cucumber",
+  "version": "0.0.0-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/cucumber-tsd-ambient",
+  "typescript": {
+    "definition": "cucumber.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
